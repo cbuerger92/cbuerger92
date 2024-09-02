@@ -6,13 +6,20 @@
   <sub>Welcome to a world where ideas come to life, and anything is possible. Here, creativity knows no limits, <br> and every moment sparks new adventures. Ready to explore the             unexpected? Let’s dive in!</sub>	
 </p>
 
+<br>
 
 <p align="center">
   <strong>✨Skills✨</strong>
 </p>
 
 <p align="center">
-  <sub>1 <br> 2 <br> 3</sub>	
+  <sub>Adobe Creative Cloud <br>Figma <br>Asana</sub>	
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Motion Design <br>Shooting Production <br>Illustration <br>Konzeptentwicklung </sub>	
 </p>
 
 <br>
