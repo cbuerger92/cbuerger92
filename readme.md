@@ -13,7 +13,3 @@ Now, I have decided to take on a new challenge and further my career by training
 ![Static Badge](https://img.shields.io/badge/After_Effects-grey?style=for-the-badge&logo=adobeaftereffects&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/InDesign-grey?style=for-the-badge&logo=adobeindesign&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
-
-#### Code
-
-![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
