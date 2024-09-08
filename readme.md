@@ -13,3 +13,12 @@ Now, I have decided to take on a new challenge and further my career by training
 ![Static Badge](https://img.shields.io/badge/After_Effects-grey?style=for-the-badge&logo=adobeaftereffects&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/InDesign-grey?style=for-the-badge&logo=adobeindesign&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+
+#### Upcoming
+
+![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=grey&logoSize=auto&labelColor=white&color=grey)
