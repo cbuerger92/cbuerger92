@@ -1,8 +1,8 @@
 ## Welcome to my Github Profile 👋
 
-My name is Christina. After completing two apprenticeships in design, I spent over 7 years working in various advertising agencies. I first focused on designing user-friendly websites and apps, honing my skills in digital design. Later, in a different agency, I transitioned into the social media space, where I advised clients on their social media strategies and managed their online presence. My responsibilities included concept development, executing design ideas, and overseeing product shoots from preparation to completion.
+My name is Christina, and I have a deep passion for design and technology. My journey began with training as a media designer, which laid the foundation for my career. Over the past seven years, I worked in various advertising agencies, where I honed my skills and gained valuable experience. I was involved in developing and visually realizing numerous digital products.
 
-Now, I have decided to take on a new challenge and further my career by training as a software developer.
+Now, I’m excited to embrace a new challenge: training as a software developer at [neuefische GmbH](https://www.neuefische.de/). This next step will allow me to merge my creative abilities with the technical expertise of web development.
 
 ## Top Tools ✨
 
