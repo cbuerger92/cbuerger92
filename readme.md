@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile 👋
 
-My name is Christina, and I have a deep passion for design and technology. My journey began with training as a media designer, which laid the foundation for my career. Over the past seven years, I worked in various advertising agencies, where I honed my skills and gained valuable experience. I was involved in developing and visually realizing numerous digital products.
+My name is Christina, and I have a deep passion for design and technology. My journey began with training as a media designer, which laid the foundation for my career. Over the past seven years, I worked in various advertising agencies, where I honed my skills and gained valuable experience. 
 
 Now, I’m excited to embrace a new challenge: training as a software developer at [neuefische GmbH](https://www.neuefische.de/). This next step will allow me to merge my creative abilities with the technical expertise of web development.
 
